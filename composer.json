@@ -1,0 +1,27 @@
+{
+    "name": "petrstadnik/yii2-payumyii2extension",
+    "description": "Upgraded payum extension for Yii2 framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","payum"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Petr Stádník",
+            "email": "peta.stadnik@email.cz"
+        }
+    ],
+"repositories":[
+    {
+        "type": "git",
+        "url": "https://github.com/PetrStadnik/payumyii2extension.git"
+    }
+],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "petrstadnik\\payumyii2extension\\": ""
+        }
+    }
+}
