@@ -17,7 +17,7 @@
     }
 ],
     "require": {
-        "petrstadnik/yii2-payumyii2extension": "*",
+        
         "yiisoft/yii2": "*"
     },
     "autoload": {
