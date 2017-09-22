@@ -18,7 +18,8 @@
 ],
     "require": {
         
-        "yiisoft/yii2": "*"
+        "yiisoft/yii2": "*",
+        "petrstadnik/yii2-payumyii2extension": "*"
     },
     "autoload": {
         "psr-4": {
